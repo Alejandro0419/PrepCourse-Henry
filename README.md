@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo 2 del PrepCourse de Henry
+Este repositorio es una prueba realizada para comprobar los conocimientos del segundo modulo del Prep Course de Henry.
